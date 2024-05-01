@@ -51,7 +51,7 @@
 - **Cloud Hosting**:
 
     <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width = 100px>
-    <img src="https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png" width = 100px>
+    <img src="https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png" width = 150px>
     <img src="https://swimburger.net/media/0zcpmk1b/azure.jpg" width = 100px>
     
 <br>
